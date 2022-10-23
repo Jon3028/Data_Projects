@@ -75,6 +75,12 @@ La red es la puerta de entrada para cualquier cosa que necesite que no esté alm
 El CPU de hardware siver para calcular matematicamente cuanta memoria necesitara el procesamiento de la informacion
 $$ {(600 tweets/second)x(200 bytes/tweets)= 1.2 Million bytes/second} $$
 
+##  Hardware Memoria
+
+<div align="center"> 
+  <img src="https://hpe-developer-portal.s3.amazonaws.com/uploads/media/2020/6/image6-1593757021829.png" width="%">
+</div>
+
 
 
 
