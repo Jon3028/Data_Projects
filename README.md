@@ -120,7 +120,7 @@ Existen por lo menos tres diferentes roles para tener un pipeline completo de ci
 - **Machine Learning engineer**: Se encarga de llevar las predicciones a escala, de subirlos a la nube y allí generar muchas predicciones. Se encarga de mantener la calidad del modelo.
 
 <div align="center"> 
-  <img src="readme_img/hierarchy.png" width="">
+  <img src="https://miro.medium.com/max/1200/1*FMwKyF0I9nh3DG0ft8nKvg.png" width="">
 </div>
 
 ### Configuración del ambiente
