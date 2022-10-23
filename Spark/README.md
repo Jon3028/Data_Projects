@@ -78,6 +78,17 @@ $$ {(600 tweets/second)x(200 bytes/tweets)= 1.2 Million bytes/second} $$
 
 ##  Hardware Memoria
 
+Eficente, Costosa y Efimera
+
+Se tienen dos problemas con la memoria
+
+- 1.- Volatilidad: cuando se apaga el servicio de nuestras maquinas es comun que pedamos informacion
+- 2.- Costosa : Es muy costoso tener mucha memoria.
+
+Muchas compañias gastaban mucha plata por esta memoria,sin embargo como estrategia de multiples empresas de cloud como google, es que distribuyeros esta caga con Hardware "volatil".
+
+Al conectar este grupo de computadoras en un sustema distribuido, le dieron el termino a cada unas las maquinas como un NODO, estos arreglos realizados por Google fue parte de la idea para el desarrollo de Spark
+
 <div align="center"> 
   <img src="https://hpe-developer-portal.s3.amazonaws.com/uploads/media/2020/6/image6-1593757021829.png" width="%">
 </div>
