@@ -33,7 +33,7 @@ Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSI
 <li>Jupyter Notebooks</li>
 <li>Apache airflow</li>
 <li>SQL</li>
-<li>Bussines Intelligence</li>  
+<li>Bussines Intelligence (Power BI, Tableau,Qlick Sense etc.)</li>  
 </ul>
 
 <h2>Practica</h2>
