@@ -223,7 +223,7 @@ Tenemos otras clasificaciones como los datos estructurados, semi estructurados y
   - Datos científicos
 
 <div align="center"> 
-  <img src="readme_img/tipos-datos.jpg" width="80%">
+  <img src="https://www.salesforce.com/content/dam/blogs/mx/2020/data-lakesxdata-warehouses-mx.jpg" width="80%">
 </div>
 
 ### Fuentes de datos
