@@ -73,7 +73,9 @@ La red es la puerta de entrada para cualquier cosa que necesite que no esté alm
 
 ##  Hardware CPU
 
-$$ {600 tewwts/second} $$
+<div align="left"> 
+$$ {(600 tweets/second) x (200 bytes/tweets) = 1.2 Million bytes / second} $$
+</div>
 
 
 
