@@ -45,6 +45,6 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 
 ### ¿Que_es_Big_Data?
 <div align="center"> 
-  <img src="https://datasciencedegree.wisconsin.edu/wp-content/uploads/2015/05/4-Vs-of-big-data-1024x629.jpg" width="80%">
+  <img src="https://datasciencedegree.wisconsin.edu/wp-content/uploads/2015/05/4-Vs-of-big-data-1024x629.jpg" width="%">
 </div>
 
