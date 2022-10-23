@@ -43,7 +43,6 @@ Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSI
 ### Desde la introduccion hasta ETL, se ha tomado el resumen de francomanca93 https://github.com/francomanca93
 
 - [Introducción](#Introducción)
-    - [Introducción al curso](#Introducción-al-curso)
     - [¿Qué es la Ciencia e Ingeniería de Datos?](#¿Qué-es-la-Ciencia-e-Ingeniería-de-Datos?)
     - [Roles](#Roles)
     - [Configuración del ambiente](#Configuración-del-ambiente)
