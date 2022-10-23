@@ -32,6 +32,7 @@ Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSI
 <li>Owncloud</li>
 <li>Jupyter Notebooks</li>
 <li>Apache airflow</li>
+<li>SQL</li>
 </ul>
 
 <h2>Practica</h2>
