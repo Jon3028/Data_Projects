@@ -26,7 +26,7 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 # Conceptos
 
 - [¿Que_es_Big_Data?](#¿Que_es_Big_Data?)
-- [Numeros](#Numeros)
+- [Numeros_que_todos_deben_conocer](#Numeros)
 - [Hardware_CPU](#Hardware_CPU)
 - [Hardware_Memoria](#Hardware_Memory)
 - [Hardware_Almacenamiento](#Hardware_Storage)
@@ -49,4 +49,24 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 </div>
 
 Una interpretación popular de big data se refiere a conjuntos de datos extremadamente grandes. Un informe del Instituto Nacional de Estándares y Tecnología definió los grandes datos como "conjuntos de datos extensos, principalmente en las características de volumen, velocidad y/o variabilidad, que requieren una arquitectura escalable para un almacenamiento, manipulación y análisis eficientes". Algunos han definido big data como una cantidad de datos que supera un petabyte, un millón de gigabytes.
+
+### Numeros_que_todos_deben_conocer
+
+
+
+#### CPU (Unidad Central de Procesamiento)
+La CPU es el "cerebro" de la computadora. Cada proceso en su computadora es eventualmente manejado por su CPU. Esto incluye cálculos y también instrucciones para los demás componentes del cálculo.
+
+#### Memoria (RAM)
+Cuando su programa se ejecuta, los datos se almacenan temporalmente en la memoria antes de enviarse a la CPU. La memoria es un almacenamiento efímero: cuando su computadora se apaga, los datos en la memoria se pierden.
+
+#### Almacenamiento (SSD o disco magnético)
+El almacenamiento se utiliza para mantener datos durante largos períodos de tiempo. Cuando se ejecuta un programa, la CPU indicará a la memoria que cargue temporalmente datos del almacenamiento a largo plazo.
+
+#### Red (LAN o Internet)
+La red es la puerta de entrada para cualquier cosa que necesite que no esté almacenada en su computadora. La red podría conectarse a otras computadoras en la misma habitación (una red de área local) o a una computadora en el otro lado del mundo, conectada a través de Internet.
+
+#### ¿Otros números para saber?
+Es posible que haya notado algunos otros números relacionados con la memoria caché L1 y L2, el bloqueo de exclusión mutua y las predicciones erróneas de rama. Si bien estos conceptos son importantes para una comprensión detallada de lo que sucede dentro de su computadora, no necesita preocuparse por ellos en este curso. Si tiene curiosidad por obtener más información, consulte la publicación de blog original de Peter Norvig de hace unos años y una versión interactiva para el hardware actual.
+
 
