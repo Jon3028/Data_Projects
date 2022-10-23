@@ -72,9 +72,7 @@ El almacenamiento se utiliza para mantener datos durante largos períodos de tie
 La red es la puerta de entrada para cualquier cosa que necesite que no esté almacenada en su computadora. La red podría conectarse a otras computadoras en la misma habitación (una red de área local) o a una computadora en el otro lado del mundo, conectada a través de Internet.
 
 ##  Hardware CPU
-
-<div align="left"> 
-</div>
+El CPU de hardware siver para calcular matematicamente cuanta memoria necesitara el procesamiento de la informacion
 $$ {(600 tweets/second)x(200 bytes/tweets)= 1.2 Million bytes/second} $$
 
 
