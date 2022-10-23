@@ -25,7 +25,7 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 
 # Conceptos
 
-- [¿Que es Big Data?](#¿Que_es_Big_Data?)
+- [¿Que_es_Big_Data?](#¿Que_es_Big_Data?)
 - [Numeros](#Numeros)
 - [Hardware_CPU](#Hardware_CPU)
 - [Hardware_Memoria](#Hardware_Memory)
@@ -43,43 +43,8 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 - [Spark_casos_uso](#Spark_casos_uso)
 - [Resumen](#Resumen)
 
+### ¿Que_es_Big_Data?
+<div align="center"> 
+  <img src="https://datasciencedegree.wisconsin.edu/wp-content/uploads/2015/05/4-Vs-of-big-data-1024x629.jpg" width="40%">
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-¿Que_es_Big_Data?
