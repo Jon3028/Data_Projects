@@ -50,7 +50,7 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 
 Una interpretación popular de big data se refiere a conjuntos de datos extremadamente grandes. Un informe del Instituto Nacional de Estándares y Tecnología definió los grandes datos como "conjuntos de datos extensos, principalmente en las características de volumen, velocidad y/o variabilidad, que requieren una arquitectura escalable para un almacenamiento, manipulación y análisis eficientes". Algunos han definido big data como una cantidad de datos que supera un petabyte, un millón de gigabytes.
 
-<h3>Numeros_que_todos_deben_conocer</h3>
+<h3>Numeros que todos deben conocer</h3>
 <div align="center">
   <h4>CPU = 04 nano segundos</h4>
   <h4>Memoria = 100 nano segundos</h4>
@@ -71,6 +71,11 @@ El almacenamiento se utiliza para mantener datos durante largos períodos de tie
 #### Red (LAN o Internet)
 La red es la puerta de entrada para cualquier cosa que necesite que no esté almacenada en su computadora. La red podría conectarse a otras computadoras en la misma habitación (una red de área local) o a una computadora en el otro lado del mundo, conectada a través de Internet.
 
-## 
+##  Hardware CPU
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
+$$ {600 tewwts/second} $$
+
+
 
 
