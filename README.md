@@ -9,7 +9,7 @@
 
 # Presentacion
 
-Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSIDAD TECNOLOGICA DE MEXICO, actualmente lidero el equipo analistas de KPI's y SLA's en Altán Redes, una compañia encargada de desarrollar una red de telecomunicaciones a gran escala, desde mis inicios laborales he tenido la necesidad de gestionar la informacion en ficheros de excel, lo que ha hecho que ocasionalmente se tengan perdidas de datos o que su manipulacion se compleja, es por esto que como apasionado de la tecnologia estoy en un proceso de transicion para desarrollar proyectos de ingenieria de datos y ciencia de datos, este catalogo de proyectos busca mostrar mis habilidades de analitica en la ingenieria de datos de todo el pipe line y gestion de herramientas como son.
+Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSIDAD TECNOLOGICA DE MEXICO, actualmente lidero el equipo analistas de KPI's y SLA's en Altán Redes, una compañia encargada de desarrollar una red de telecomunicaciones a gran escala, desde mis inicios laborales he tenido la necesidad de gestionar la informacion en ficheros de excel, lo que ha hecho que ocasionalmente se tengan perdidas de datos o que su manipulacion se compleja, es por esto que como apasionado de la tecnologia estoy en un proceso de transicion para desarrollar proyectos de ingenieria de datos y ciencia de datos, este catalogo de proyectos busca mostrar mis habilidades en el campo de la ingenieria de datos bajo el siguiente pipeline.
 
 <div align="left">
   <h3>1.- Captura</h3>
