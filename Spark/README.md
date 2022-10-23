@@ -50,8 +50,13 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 
 Una interpretación popular de big data se refiere a conjuntos de datos extremadamente grandes. Un informe del Instituto Nacional de Estándares y Tecnología definió los grandes datos como "conjuntos de datos extensos, principalmente en las características de volumen, velocidad y/o variabilidad, que requieren una arquitectura escalable para un almacenamiento, manipulación y análisis eficientes". Algunos han definido big data como una cantidad de datos que supera un petabyte, un millón de gigabytes.
 
-### Numeros_que_todos_deben_conocer
-
+<h3>ANumeros_que_todos_deben_conocer</h3>
+<div align="left">
+  <h4>CPU = 04 nano segundos</h4>
+  <h4>Memoria = 100 nano segundos</h4>
+  <h4>Almacenamiento = 16 micras de segundo</h4>
+  <h4>Red = 150 mili segundos</h4>
+</div>
 
 
 #### CPU (Unidad Central de Procesamiento)
@@ -65,8 +70,5 @@ El almacenamiento se utiliza para mantener datos durante largos períodos de tie
 
 #### Red (LAN o Internet)
 La red es la puerta de entrada para cualquier cosa que necesite que no esté almacenada en su computadora. La red podría conectarse a otras computadoras en la misma habitación (una red de área local) o a una computadora en el otro lado del mundo, conectada a través de Internet.
-
-#### ¿Otros números para saber?
-Es posible que haya notado algunos otros números relacionados con la memoria caché L1 y L2, el bloqueo de exclusión mutua y las predicciones erróneas de rama. Si bien estos conceptos son importantes para una comprensión detallada de lo que sucede dentro de su computadora, no necesita preocuparse por ellos en este curso. Si tiene curiosidad por obtener más información, consulte la publicación de blog original de Peter Norvig de hace unos años y una versión interactiva para el hardware actual.
 
 
