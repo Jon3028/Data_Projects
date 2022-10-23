@@ -89,7 +89,7 @@ Se apoya en:
     - Interpretar datos correctamente en función a las preguntas que hagamos.
 
 <div align="center"> 
-  <img src="readme_img/data-science.png" width="">
+  <img src="https://datos.gob.es/sites/default/files/datosgobes/equipos_datos_1.png" width="">
 </div>
 
 Herramientas donde se auxilia:
