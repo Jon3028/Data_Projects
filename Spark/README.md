@@ -43,8 +43,10 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 - [Spark_casos_uso](#Spark_casos_uso)
 - [Resumen](#Resumen)
 
-### ¿Que_es_Big_Data?
+### ¿Qué es Big Data?
 <div align="center"> 
   <img src="https://datasciencedegree.wisconsin.edu/wp-content/uploads/2015/05/4-Vs-of-big-data-1024x629.jpg" width="%">
 </div>
+
+Una interpretación popular de big data se refiere a conjuntos de datos extremadamente grandes. Un informe del Instituto Nacional de Estándares y Tecnología definió los grandes datos como "conjuntos de datos extensos, principalmente en las características de volumen, velocidad y/o variabilidad, que requieren una arquitectura escalable para un almacenamiento, manipulación y análisis eficientes". Algunos han definido big data como una cantidad de datos que supera un petabyte, un millón de gigabytes.
 
