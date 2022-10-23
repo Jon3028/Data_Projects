@@ -23,9 +23,25 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
   <h4>6-. Otras tecnologias en el ecosistema del BIG Data</h4>
 </div>
 
-# Contenido
-- [¿Que es Big Data?](#¿Que_es_Big_Data?)
+# Conceptos
 
+- [¿Que es Big Data?](#¿Que_es_Big_Data?)
+- [Numeros](#Numeros)
+- [Hardware_CPU](#Hardware_CPU)
+- [Hardware_Memoria](#Hardware_Memory)
+- [Hardware_Almacenamiento](#Hardware_Storage)
+- [Hardware_Red](#Hardware_Network)
+- [Hardware_Key_Ratios](#Hardware_Key_Ratios)
+- [Datos_Pequeños](#Datos_Pequeños)
+- [Datos_Enormes_BIG](#Datos_Enormes_BIG)
+- [Datos_Promedio](#Datos_Promedio)
+- [Datos_ditribuidos](#Datos_ditribuidos)
+- [Ecositema_Haddop](#Ecositema_Haddop)
+- [Map_Reduce](#Map_Reduce)
+- [Hadoop_Map_reduce_demo](#Hadoop_Map_reduce_demo)
+- [Spark_Cluster](#Spark_Cluster)
+- [Spark_casos_uso](#Spark_casos_uso)
+- [Resumen](#Resumen)
 
 
 
