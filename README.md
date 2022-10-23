@@ -21,9 +21,25 @@ Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSI
   <h3>Archivado</h3>
 </div>
 
+# Introduccion
+ El desarrollo de estos proyectos busca poder plasmar los conocimientos obtenidos y que sean una guia para los cientificos de datos e ingenieros de datos con poca experiencia y que buscan ideas distintas para desarrollar sus proyectos
+ 
+# Objetivos del repositorio
+<div align="center">
+<h3>Teoria</h3>
+### Plasmar los fundamentos de la ingeniera de datos a traves de herramientas de software libre como
+<ul style="list-style-type:square">
+<li>Owncloud</li>
+<li>Jupyter Notebooks</li>
+<li>Apache airflow</li>
+</ul>
 
-
-El contenido de este documento son **apuntes teoricos** y un proyecto **Web Scrapper** del [Curso de Ingeniería de datos con Python]
-
-(https://platzi.com/clases/ingenieria-datos/) y busca ser una guía para futuros trabajos personales. El mismo está dictado por [David Aroesti](https://github.com/jdaroesti) del team [Platzi](https://platzi.com).
+<h3>Practica</h3>
+### Desarrollar proyectos que involucren el ciclo de vida de la ingeniera de datos a traves de herramientas locales y en la nube como
+<ul style="list-style-type:square">
+<li>AWS Cloud</li>
+<li>Azure</li>
+<li>Google Cloud</li>
+</ul>
+</div>
 
