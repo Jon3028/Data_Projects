@@ -22,3 +22,48 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
   <h4>5.- Casos comunes del uso de Spark</h4>
   <h4>6-. Otras tecnologias en el ecosistema del BIG Data</h4>
 </div>
+
+# Contenido
+- [¿Que es Big Data?](#¿Que_es_Big_Data?)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¿Que_es_Big_Data?
