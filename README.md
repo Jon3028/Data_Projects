@@ -278,5 +278,5 @@ Si separamos por puntos cada uno haría lo siguiente:
   - Depende del tipo de solución que se haya escogido
 
 <div align="center"> 
-  <img src="readme_img/etl.png" width="">
+  <img src="https://content.altexsoft.com/media/2020/03/etl-pipeline.png" width="">
 </div>
