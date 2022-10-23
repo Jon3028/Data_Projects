@@ -27,12 +27,13 @@ Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSI
 # Objetivos del repositorio
 <div align="left">
 <h2>Teoria</h2>
-<h3>Plasmar los fundamentos de la ingeniera de datos a traves de herramientas de software libre como</h3>
+<h3>Plasmar los fundamentos de la ingeniera de datos a traves de herramientas de software como</h3>
 <ul style="list-style-type:square">
 <li>Owncloud</li>
 <li>Jupyter Notebooks</li>
 <li>Apache airflow</li>
 <li>SQL</li>
+<li>Bussines Intelligence</li>  
 </ul>
 
 <h2>Practica</h2>
