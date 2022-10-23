@@ -45,7 +45,7 @@ Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSI
 </div>
 
 # Tabla de contenido 
-### Desde la introduccion hasta ETL, se ha tomado el resumen de francomanca93 https://github.com/francomanca93 *
+### Desde la introduccion hasta ETL, se ha tomado el resumen de francomanca93 https://github.com/francomanca93
 
 - [Introducción](#Introducción)
     - [Introducción al curso](#Introducción-al-curso)
