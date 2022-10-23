@@ -43,7 +43,7 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 - [Spark_casos_uso](#Spark_casos_uso)
 - [Resumen](#Resumen)
 
-### ¿Qué es Big Data?
+## ¿Qué es Big Data?
 <div align="center"> 
   <img src="https://datasciencedegree.wisconsin.edu/wp-content/uploads/2015/05/4-Vs-of-big-data-1024x629.jpg" width="%">
 </div>
@@ -70,5 +70,7 @@ El almacenamiento se utiliza para mantener datos durante largos períodos de tie
 
 #### Red (LAN o Internet)
 La red es la puerta de entrada para cualquier cosa que necesite que no esté almacenada en su computadora. La red podría conectarse a otras computadoras en la misma habitación (una red de área local) o a una computadora en el otro lado del mundo, conectada a través de Internet.
+
+## 
 
 
