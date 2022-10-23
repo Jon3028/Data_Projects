@@ -26,16 +26,16 @@ Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSI
  
 # Objetivos del repositorio
 <div align="left">
-<h3>Teoria</h3>
-<h2>Plasmar los fundamentos de la ingeniera de datos a traves de herramientas de software libre como</h2>
+<h2>Teoria</h2>
+<h3>Plasmar los fundamentos de la ingeniera de datos a traves de herramientas de software libre como</h3>
 <ul style="list-style-type:square">
 <li>Owncloud</li>
 <li>Jupyter Notebooks</li>
 <li>Apache airflow</li>
 </ul>
 
-<h3>Practica</h3>
-<h2>Desarrollar proyectos que involucren el ciclo de vida de la ingeniera de datos a traves de herramientas locales y en la nube como</h2>
+<h2>Practica</h2>
+<h3>Desarrollar proyectos que involucren el ciclo de vida de la ingeniera de datos a traves de herramientas locales y en la nube como</h3>
 <ul style="list-style-type:square">
 <li>AWS Cloud</li>
 <li>Azure</li>
