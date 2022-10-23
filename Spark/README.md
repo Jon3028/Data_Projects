@@ -51,7 +51,7 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 Una interpretación popular de big data se refiere a conjuntos de datos extremadamente grandes. Un informe del Instituto Nacional de Estándares y Tecnología definió los grandes datos como "conjuntos de datos extensos, principalmente en las características de volumen, velocidad y/o variabilidad, que requieren una arquitectura escalable para un almacenamiento, manipulación y análisis eficientes". Algunos han definido big data como una cantidad de datos que supera un petabyte, un millón de gigabytes.
 
 <h3>ANumeros_que_todos_deben_conocer</h3>
-<div align="left">
+<div align="center">
   <h4>CPU = 04 nano segundos</h4>
   <h4>Memoria = 100 nano segundos</h4>
   <h4>Almacenamiento = 16 micras de segundo</h4>
