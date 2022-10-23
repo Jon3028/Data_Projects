@@ -12,13 +12,13 @@ Fuente de imagen miro.medium.com
 Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSIDAD TECNOLOGICA DE MEXICO, actualmente lidero el equipo analistas de KPI's y SLA's en Altán Redes, una compañia encargada de desarrollar una red de telecomunicaciones a gran escala, desde mis inicios laborales he tenido la necesidad de gestionar la informacion en ficheros de excel, lo que ha hecho que ocasionalmente se tengan perdidas de datos o que su manipulacion se compleja, es por esto que como apasionado de la tecnologia estoy en un proceso de transicion para desarrollar proyectos de ingenieria de datos y ciencia de datos, este catalogo de proyectos busca mostrar mis habilidades en el campo de la ingenieria de datos bajo el siguiente pipeline.
 
 <div align="left">
-  <h3>1.- Captura</h3>
-  <h3>2.- Almacenamiento</h3>
-  <h3>3.- Procesamiento</h3>
-  <h3>4.- Uso del dato</h3>
-  <h3>5.- Analitica</h3>
-  <h3>6-. Publicacion</h3>
-  <h3>7.- Archivado</h3>
+  <h4>1.- Captura</h4>
+  <h4>2.- Almacenamiento</h4>
+  <h4>3.- Procesamiento</h4>
+  <h4>4.- Uso del dato</h4>
+  <h4>5.- Analitica</h4>
+  <h4>6-. Publicacion</h4>
+  <h4>7.- Archivado</h4>
 </div>
 
 # Introduccion
