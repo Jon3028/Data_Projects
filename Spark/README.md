@@ -73,7 +73,6 @@ La red es la puerta de entrada para cualquier cosa que necesite que no esté alm
 
 ##  Hardware CPU
 
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 $$ {600 tewwts/second} $$
 
 
