@@ -19,6 +19,6 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
   <h4>2.- Revision del hardware detras de BIG DATA</h4>
   <h4>3.- Introduccion a los sistemas distribuidos</h4>
   <h4>4.- Una breve historia de Spark y Big Data</h4>
-  <h4>5.- Caos comunes del uso de Spark</h4>
+  <h4>5.- Casos comunes del uso de Spark</h4>
   <h4>6-. Otras tecnologias en el ecosistema del BIG Data</h4>
 </div>
