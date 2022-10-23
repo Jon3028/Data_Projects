@@ -13,7 +13,7 @@ SPARK es una de las herramientas mas populares para el analisis de BIG DATA, sin
 
 Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una con sus propios casos de uso, por ejemplo tenemos Apache Cassadra y SQL queries como Presto, sin embargo Spark continua siendo la herramienta mas popular para el analisis de grandes cantidades de datos.
 
-<h3>Aqui tenemos algunos puntos del proposito del desarrollo de este proyecto</h3>
+<h3>A continuacion algunos puntos del proposito del desarrollo de este proyecto</h3>
 <div align="left">
   <h4>1.- ¿Que es BIG Data?</h4>
   <h4>2.- Revision del hardware detras de BIG DATA</h4>
