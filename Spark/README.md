@@ -75,7 +75,7 @@ La red es la puerta de entrada para cualquier cosa que necesite que no esté alm
 
 <div align="left"> 
 </div>
-$$ {(600 tweets/second) x (200 bytes/tweets) = 1.2 Million bytes / second} $$
+$$ {(600 tweets/second)x(200 bytes/tweets)= 1.2 Million bytes/second} $$
 
 
 
