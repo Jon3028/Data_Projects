@@ -21,7 +21,7 @@ Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSI
   <h4>7.- Archivado</h4>
 </div>
 
-# Introduccion
+# Introducción
  El desarrollo de estos proyectos busca poder plasmar los conocimientos obtenidos y que sean una guia para los cientificos de datos e ingenieros de datos con poca experiencia y que buscan ideas distintas para desarrollar sus proyectos
  
 # Objetivos del repositorio
@@ -35,7 +35,6 @@ Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSI
 <li>SQL</li>
 <li>Bussines Intelligence (Power BI, Tableau,Qlick Sense etc.)</li>  
 </ul>
-
 <h2>Practica</h2>
 <h3>Desarrollar proyectos que involucren el ciclo de vida de la ingeniera de datos a traves de herramientas locales y en la nube como</h3>
 <ul style="list-style-type:square">
@@ -44,4 +43,6 @@ Mi nombre es **Jonathan Garcia** Ingeniero en telecomunicaciones por la UNIVERSI
 <li>Google Cloud</li>
 </ul>
 </div>
+
+# Tabla de contenido
 
