@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <img src="https://cdn4.vectorstock.com/i/1000x1000/05/03/data-engineering-isolated-icon-simple-element-vector-28230503.jpg" width="">
+  <img src="https://miro.medium.com/max/501/1*XzNcxsUYugJu2SB2SEOf3w.jpeg" width="">
 </div>
 
 
