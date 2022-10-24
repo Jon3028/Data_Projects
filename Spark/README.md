@@ -121,3 +121,18 @@ Aun cuando hemos tenido avances importantes en el desarrollo de hardware, contin
 Debido a esto los sistemas distribuidos tratan de minimizar esto con un concepto llamado **Shufflin data back**, que no es mas que dividir la informacion entre los nodos del cluster y repartirla para que su procesamiento sea mas simple
 
 ##  Hardware Key Ratios
+
+<table class="default">
+  <tr>
+    <td>CPU</td>
+    <td>Memoria</td>
+    <td>SSD</td>
+    <td>Red</td>
+  </tr>
+  <tr>
+    <td>200x mas rapido que una memoria</td>
+    <td>15x mas rapido que un SSD</td>
+    <td>20x mas rapido que una red</td>
+    <td>Tu red dependera en que rancho vivas</td>
+  </tr>
+</table>
