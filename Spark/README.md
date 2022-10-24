@@ -200,4 +200,35 @@ Si bien Spark no implementa MapReduce, puede escribir programas Spark que se com
 ### MapReduce_practice
 Revisar las practicas del repositorio
 
+### Spark Cluster
+
+Exiten distintas maneras de correr Spark, 
+
+
+<table class="default">
+  <tr>
+    <td>Modo local</td>
+    <td>Cluster Manager</td>
+  </tr>
+  <tr>
+    <td>Para este caso, realmente no tenemos computacion distribuida, esta opcion es ideal para apender la sintaxys y prototipar proyectos pesonales</td>
+    <td>La gestion de cluster es un proceso separado que momnitorea los recursos disponibles, asi mismo se asegura que todas las maquinas estan trbajando de manera adecuada</td>
+  </tr>
+</table>
+
+Adicional existen de modos de clusters
+
+<table class="default">
+  <tr>
+    <td>Standalone</td>
+    <td>YARN</td>
+    <td>Mesos</td>
+  </tr>
+  <tr>
+    <td>Esta opcion es la instalacion local</td>
+    <td>Yarn es necesario cuando estamos trabajando en un cluster con el equipo de trabajo</td>
+    <td>Corre en cada nodo y provee aplicaciones (Hadoop,Yarn,Spark,KAfka) independientes a cada nodo</td>
+  </tr>
+</table>
+
 
