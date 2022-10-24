@@ -227,8 +227,52 @@ Adicional existen de modos de clusters
   <tr>
     <td>Esta opcion es la instalacion local</td>
     <td>Yarn es necesario cuando estamos trabajando en un cluster con el equipo de trabajo</td>
-    <td>Corre en cada nodo y provee aplicaciones (Hadoop,Yarn,Spark,KAfka) independientes a cada nodo</td>
+    <td>Corre en cada nodo y provee aplicaciones (Hadoop,Yarn,Spark,Kafka) independientes a cada nodo</td>
   </tr>
 </table>
 
+### Casos de uso SPARK
 
+
+
+
+<div align="left">
+<h3>Aquí hay algunos recursos sobre diferentes casos de uso de Spark:</h3>
+<ul style="list-style-type:square">
+<li>Análisis de datos</li>
+<li>Aprendizaje automático</li>
+<li>Streaming</li>
+<li>Analisis de datos</li>
+</ul>
+</div>
+
+**No siempre necesitas Spark**
+Spark está diseñado para grandes conjuntos de datos que no caben en una computadora. Pero no necesita Spark si está trabajando en conjuntos de datos más pequeños. En los casos de conjuntos de datos que pueden caber en su computadora local, existen muchas otras opciones que puede usar para manipular datos, tales como:
+
+AWK: una herramienta de línea de comandos para manipular archivos de texto
+R: un lenguaje de programación y un entorno de software para la computación estadística
+Python PyData Stack, que incluye pandas, Matplotlib, NumPy y scikit-learn entre otras bibliotecas
+
+A veces, aún puede usar pandas en una sola máquina local, incluso si su conjunto de datos es solo un poco más grande que la memoria. Los pandas pueden leer datos en fragmentos. Dependiendo de su caso de uso, puede filtrar los datos y escribir las partes relevantes en el disco.
+
+Si los datos ya están almacenados en una base de datos relacional como MySQL o Postgres, puede aprovechar SQL para extraer, filtrar y agregar los datos. Si desea aprovechar pandas y SQL simultáneamente, puede usar bibliotecas como SQLAlchemy, que proporciona una capa de abstracción para manipular tablas SQL con expresiones generativas de Python.
+
+La biblioteca de Python Machine Learning más utilizada es scikit-learn. Tiene una amplia gama de algoritmos para clasificación, regresión y agrupamiento, así como utilidades para el preprocesamiento de datos, el ajuste fino de los parámetros del modelo y la prueba de sus resultados. Sin embargo, si desea utilizar algoritmos más complejos, como el aprendizaje profundo, deberá buscar más. TensorFlow y PyTorch son paquetes actualmente populares.
+
+
+**Limitaciones de Spark**
+La latencia de Spark Streaming es de al menos 500 milisegundos, ya que opera en microlotes de registros, en lugar de procesar un registro a la vez. Las herramientas de transmisión nativas como Storm, Apex o Flink pueden reducir este valor de latencia y pueden ser más adecuadas para aplicaciones de baja latencia. Flink y Apex también se pueden usar para el cálculo por lotes, por lo que si ya los está usando para el procesamiento de transmisiones, no es necesario agregar Spark a su pila de tecnologías.
+
+Otra limitación de Spark es su selección de algoritmos de aprendizaje automático. Actualmente, Spark solo admite algoritmos que escalan linealmente con el tamaño de los datos de entrada. En general, el aprendizaje profundo tampoco está disponible, aunque hay muchos proyectos que integran Spark con Tensorflow y otras herramientas de aprendizaje profundo.
+
+**Hadoop contra Spark**
+El ecosistema Hadoop es una tecnología un poco más antigua que el ecosistema Spark. En general, Hadoop MapReduce es más lento que Spark porque Hadoop escribe datos en el disco durante los pasos intermedios. Sin embargo, muchas grandes empresas, como Facebook y LinkedIn, comenzaron a usar Big Data temprano y construyeron su infraestructura en torno al ecosistema de Hadoop.
+
+Si bien Spark es excelente para algoritmos iterativos, no hay mucho aumento de rendimiento en comparación con Hadoop MapReduce cuando se realiza un conteo simple. La migración del código heredado a Spark, especialmente en cientos de nodos que ya están en producción, podría no valer la pena por el pequeño aumento de rendimiento.
+
+**Más allá de Spark para almacenar y procesar Big Data**
+Tenga en cuenta que Spark no es un sistema de almacenamiento de datos y que hay varias herramientas además de Spark que se pueden usar para procesar y analizar grandes conjuntos de datos.
+
+A veces tiene sentido usar el poder y la simplicidad de SQL en big data. Para estos casos se ha desarrollado una nueva clase de bases de datos, conocidas como NoSQL y NewSQL.
+
+Por ejemplo, es posible que escuche acerca de los sistemas de almacenamiento de bases de datos más nuevos, como HBase o Cassandra. También hay motores SQL distribuidos como Impala y Presto. Muchas de estas tecnologías utilizan una sintaxis de consulta con la que probablemente ya esté familiarizado en función de sus experiencias con Python y SQL.
