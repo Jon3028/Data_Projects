@@ -136,3 +136,12 @@ Debido a esto los sistemas distribuidos tratan de minimizar esto con un concepto
     <td>Tu red dependera en que rancho vivas</td>
   </tr>
 </table>
+
+##  Datos pequeños
+Cuando no tienes cantidades enormes para procesamiento es conveniente usar python para su procesamiento.
+
+##  Datos enormes BIG
+Spark fue diseñado para trabajar con clusters y nodos, esto con el proposito de distribuir la carga de trabajo, cuando tenemos que trabajar con grandes volumenes de datos, es conveniente usar Spark para estas tareas
+
+
+
