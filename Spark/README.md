@@ -197,6 +197,6 @@ Si bien Spark no implementa MapReduce, puede escribir programas Spark que se com
   <img src="https://www.guru99.com/images/Big_Data/061114_0930_Introductio1.png" width="%">
 </div>
 
-### MapReduce
+### MapReduce (Ejemplo)
 
-`$ jupyter notebook`
+
