@@ -290,5 +290,8 @@ iv align="left">
 </ul>
 </div>
 
-**Programacion funcional**
+**Programacion funcional vs Programacion de procedimiento**
+
 Actualmente existen distintos motores de programacion para trabajar con Spark, algunos de ellos son Scala, Java, R & Python, sin embargo para el proposito de este desarollo usaremos Python en las practicas **PySpark**
+
+Python por su naturaleza tiene un ciclo de programacion de procedimeinto, lo que limita que se ejecute una funcion a la vez, sin emabrgo con Spark tenemos una programacion funcional, donde divide la informacion en distintos clusters y nodos y al termino de la ejecucion de la informacion la une y suma.
