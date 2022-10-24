@@ -101,7 +101,7 @@ Por ejemplo, procesar 1 hora de tweets (4.3 G) nos llevaria aprox.
 
 <table class="default">
   <tr>
-    <td>Memoria/td>
+    <td>Memoria</td>
     <td>SSD</td>
     <td>Disco Magnetico</td>
   </tr>
@@ -112,4 +112,12 @@ Por ejemplo, procesar 1 hora de tweets (4.3 G) nos llevaria aprox.
   </tr>
 </table>
 
+Aparente no es mucho tiempo, pero cuando se tienen billones de operaciones a realizar, esto juega un papel importante. Es la razon del nacimiento de Spark, evitar este tipo de problemas.
 
+##  Hardware de red
+
+Aun cuando hemos tenido avances importantes en el desarrollo de hardware, continuamos con un bajo desarrollo en la velocidades de conexion que pueden tener algunos nodos o equipos, 
+
+Debido a esto los sistemas distribuidos tratan de minimizar esto con un concepto llamado **Shufflin data back**, que no es mas que dividir la informacion entre los nodos del cluster y repartirla para que su procesamiento sea mas simple
+
+##  Hardware Key Ratios
