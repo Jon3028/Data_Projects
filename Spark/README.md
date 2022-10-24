@@ -143,5 +143,15 @@ Cuando no tienes cantidades enormes para procesamiento es conveniente usar pytho
 ##  Datos enormes BIG
 Spark fue diseñado para trabajar con clusters y nodos, esto con el proposito de distribuir la carga de trabajo, cuando tenemos que trabajar con grandes volumenes de datos, es conveniente usar Spark para estas tareas
 
+## Datos promedio
+Si tus datos son tan enormes como el tamañan de la memoria RAM de tu laptop, entonces puedes analizar esa informacion con una computadora simple, las librerias de Pandas pueden leer los datos completos del disco dentro de la memoria, si los datos a manipular son tan enormes como el tamaño de tu disco duro, entonces el programa no funcionara.
+
+Un truco para para poder usar Python en grandes volumenes de datos, es particionar la informacion y dividirla.
+
+#### Trick
+Poniendo como ejemplo un archivo donde necesitamos separar los artistas de una base de datos, podriamos particionar el archivo en dos el primero de la A-M y el segundo de N-Z
+
+
+
 
 
