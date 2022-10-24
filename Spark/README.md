@@ -7,7 +7,7 @@
 </div>
 Headline: El resumen de este proyecto se ha obtenido del curso de SPARK de Udacity https://learn.udacity.com/courses/ud2002
 
-# Introduccion
+# 01_Introduccion al poder de Spark
 
 SPARK es una de las herramientas mas populares para el analisis de BIG DATA, sin embargo existen otro tipo de tecnologias como Hadoop que es una tecnologia un poco mas antigua, sin embargo sigue siendo usada por grandes empresas. Spark generalmente es mas rapido en comparacion con Hadoop lo que lo ha posicionado en estos ultimos años como la herramienta mas popular.
 
@@ -23,7 +23,7 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
   <h4>6-. Otras tecnologias en el ecosistema del BIG Data</h4>
 </div>
 
-# Conceptos
+## Conceptos
 
 - [¿Que_es_Big_Data?](#¿Que_es_Big_Data?)
 - [Numeros_que_todos_deben_conocer](#Numeros)
@@ -276,3 +276,5 @@ Tenga en cuenta que Spark no es un sistema de almacenamiento de datos y que hay 
 A veces tiene sentido usar el poder y la simplicidad de SQL en big data. Para estos casos se ha desarrollado una nueva clase de bases de datos, conocidas como NoSQL y NewSQL.
 
 Por ejemplo, es posible que escuche acerca de los sistemas de almacenamiento de bases de datos más nuevos, como HBase o Cassandra. También hay motores SQL distribuidos como Impala y Presto. Muchas de estas tecnologías utilizan una sintaxis de consulta con la que probablemente ya esté familiarizado en función de sus experiencias con Python y SQL.
+
+# 02_Data Wrangling con Spark
