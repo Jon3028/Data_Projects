@@ -93,6 +93,23 @@ Al conectar este grupo de computadoras en un sustema distribuido, le dieron el t
   <img src="https://hpe-developer-portal.s3.amazonaws.com/uploads/media/2020/6/image6-1593757021829.png" width="%">
 </div>
 
+##  Hardware Almacenamiento
 
+Cuando se usan discos magneticos o tipo SSD, puede ser una opcion mas economica pero que tiene un gran peso en la perdida de velocidad, ya que la informacion tarda mucho mas en procesarse.
+
+Por ejemplo, procesar 1 hora de tweets (4.3 G) nos llevaria aprox.
+
+<table class="default">
+  <tr>
+    <td>Memoria/td>
+    <td>SSD</td>
+    <td>Disco Magnetico</td>
+  </tr>
+  <tr>
+    <td>30 ms</td>
+    <td>0.5s</td>
+    <td>4s</td>
+  </tr>
+</table>
 
 
