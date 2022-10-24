@@ -178,3 +178,10 @@ El ecosistema de Hadoop incluye un sistema de almacenamiento de archivos distrib
 La transmisión de datos es un tema especializado en big data. El caso de uso es cuando desea almacenar y analizar datos en tiempo real, como publicaciones de Facebook o tweets de Twitter.
 
 Spark tiene una biblioteca de transmisión llamada Spark Streaming, aunque no es tan popular ni rápida como otras bibliotecas de transmisión. Otras bibliotecas de transmisión populares incluyen Storm y Flink.
+
+<div align="center"> 
+  <img src="https://static.packt-cdn.com/products/9781788995092/graphics/assets/a64fec28-e2b2-42f0-96cf-098fe8385316.png" width="%">
+</div>
+
+
+
