@@ -35,7 +35,6 @@ Existen algunas otras herramientas para la manipulacion de BIG DATA, cada una co
 - [Datos_Pequeños](#Datos_Pequeños)
 - [Datos_Enormes_BIG](#Datos_Enormes_BIG)
 - [Datos_Promedio](#Datos_Promedio)
-- [Datos_ditribuidos](#Datos_ditribuidos)
 - [Ecositema_Haddop](#Ecositema_Haddop)
 - [Map_Reduce](#Map_Reduce)
 - [Hadoop_Map_reduce_demo](#Hadoop_Map_reduce_demo)
@@ -151,7 +150,31 @@ Un truco para para poder usar Python en grandes volumenes de datos, es particion
 #### Truco
 Poniendo como ejemplo un archivo donde necesitamos separar los artistas de una base de datos, podriamos particionar el archivo en dos el primero de la A-M y el segundo de N-Z
 
+nota: A un alto nivel, la computación distribuida implica varias CPU, cada una con su propia memoria. La computación paralela utiliza varias CPU que comparten la misma memoria.
+
+## Hadoop Ecosystem
 
 
+**Hadoop:** un ecosistema de herramientas para el almacenamiento de big data y el análisis de datos. Hadoop es un sistema más antiguo que Spark, pero muchas empresas todavía lo utilizan. La principal diferencia entre Spark y Hadoop es cómo usan la memoria. Hadoop escribe resultados intermedios en el disco, mientras que Spark intenta mantener los datos en la memoria siempre que sea posible. Esto hace que Spark sea más rápido para muchos casos de uso.
 
+**Hadoop MapReduce:** un sistema para procesar y analizar grandes conjuntos de datos en paralelo.
 
+**Hadoop YARN:** un administrador de recursos que programa trabajos en un clúster. El administrador realiza un seguimiento de los recursos informáticos disponibles y luego asigna esos recursos a tareas específicas.
+
+Sistema de archivos distribuidos de Hadoop (HDFS): un sistema de almacenamiento de big data que divide los datos en fragmentos y los almacena en un grupo de computadoras.
+
+A medida que Hadoop maduró, se desarrollaron otras herramientas para facilitar el trabajo con Hadoop. Estas herramientas incluyen:
+
+Apache Pig: un lenguaje similar a SQL que se ejecuta sobre Hadoop MapReduce
+Apache Hive: otra interfaz similar a SQL que se ejecuta sobre Hadoop MapReduce
+A menudo, cuando alguien habla de Hadoop en términos generales, en realidad está hablando de Hadoop MapReduce. Sin embargo, Hadoop es más que solo MapReduce. En la siguiente parte de la lección, aprenderá más sobre cómo funciona MapReduce.
+
+**¿Cómo se relaciona Spark con Hadoop?**
+Spark, es otro marco de big data. Spark contiene bibliotecas para análisis de datos, aprendizaje automático, análisis de gráficos y transmisión de datos en vivo. Spark es generalmente más rápido que Hadoop. Esto se debe a que Hadoop escribe resultados intermedios en el disco, mientras que Spark intenta mantener los resultados intermedios en la memoria siempre que sea posible.
+
+El ecosistema de Hadoop incluye un sistema de almacenamiento de archivos distribuido llamado HDFS (Sistema de archivos distribuido de Hadoop). Spark, por otro lado, no incluye un sistema de almacenamiento de archivos. Puede usar Spark además de HDFS, pero no es necesario. Spark también puede leer datos de otras fuentes, como Amazon S3.
+
+**Transmisión de datos**
+La transmisión de datos es un tema especializado en big data. El caso de uso es cuando desea almacenar y analizar datos en tiempo real, como publicaciones de Facebook o tweets de Twitter.
+
+Spark tiene una biblioteca de transmisión llamada Spark Streaming, aunque no es tan popular ni rápida como otras bibliotecas de transmisión. Otras bibliotecas de transmisión populares incluyen Storm y Flink.
