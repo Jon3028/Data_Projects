@@ -148,7 +148,7 @@ Si tus datos son tan enormes como el tamañan de la memoria RAM de tu laptop, en
 
 Un truco para para poder usar Python en grandes volumenes de datos, es particionar la informacion y dividirla.
 
-#### Trick
+#### Truco
 Poniendo como ejemplo un archivo donde necesitamos separar los artistas de una base de datos, podriamos particionar el archivo en dos el primero de la A-M y el segundo de N-Z
 
 
