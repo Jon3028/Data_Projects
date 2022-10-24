@@ -180,8 +180,23 @@ La transmisión de datos es un tema especializado en big data. El caso de uso es
 Spark tiene una biblioteca de transmisión llamada Spark Streaming, aunque no es tan popular ni rápida como otras bibliotecas de transmisión. Otras bibliotecas de transmisión populares incluyen Storm y Flink.
 
 <div align="center"> 
+  <h3>Ecosistema Hadoop</h3>
   <img src="https://static.packt-cdn.com/products/9781788995092/graphics/assets/a64fec28-e2b2-42f0-96cf-098fe8385316.png" width="%">
 </div>
 
+### MapReduce
 
+MapReduce es una técnica de programación para manipular grandes conjuntos de datos. "Hadoop MapReduce" es una implementación específica de esta técnica de programación.
 
+La técnica funciona dividiendo primero un gran conjunto de datos y distribuyéndolos en un clúster. En el paso del mapa, cada dato se analiza y convierte en un par (clave, valor). Luego, estos pares clave-valor se barajan en el clúster para que todas las claves estén en la misma máquina. En el paso de reducción, los valores con las mismas claves se combinan entre sí.
+
+Si bien Spark no implementa MapReduce, puede escribir programas Spark que se comporten de manera similar al paradigma map-reduce.
+
+<div align="center"> 
+  <h3>Diagrama Map Reduce</h3>
+  <img src="https://www.guru99.com/images/Big_Data/061114_0930_Introductio1.png" width="%">
+</div>
+
+### MapReduce
+
+`$ jupyter notebook`
