@@ -279,7 +279,7 @@ Por ejemplo, es posible que escuche acerca de los sistemas de almacenamiento de 
 
 # 02_Data Wrangling con Spark
 
-iv align="left">
+<div align="left">
 <h3> Objetivos de aprendizaje</h3>
 <ul style="list-style-type:square">
 <li>Wrangling data con Spark</li>
@@ -295,3 +295,50 @@ iv align="left">
 Actualmente existen distintos motores de programacion para trabajar con Spark, algunos de ellos son Scala, Java, R & Python, sin embargo para el proposito de este desarollo usaremos Python en las practicas **PySpark**
 
 Python por su naturaleza tiene un ciclo de programacion de procedimeinto, lo que limita que se ejecute una funcion a la vez, sin emabrgo con Spark tenemos una programacion funcional, donde divide la informacion en distintos clusters y nodos y al termino de la ejecucion de la informacion la une y suma.
+
+**Funciones limpias (Pure funtions)**
+
+Cuando trabajamos con programación funcional buscamos hacer uso de las funciones puras.
+Estas funciones son aquellas retornan un valor, el cual depende de los parámetros de entrada, y no se observan ningún efecto secundario.
+
+Ejemplo de función pura
+
+`def doble_de_la_suma(x,y):`
+
+`return (x+y)/2`
+
+
+Ejemplo de una función impura
+
+`miLista = [0,1]`
+
+`def funcion_impura(valor):`
+
+`    miLista.append(valor)`
+
+`funcion_impura(231)`
+
+`print(miLista)`
+
+Esta función anterior es considerada impura debido a que tiene un efecto secundario. Modifica la lista (miLista) como factor externo.
+
+** DAGs en SPARK**
+
+Apache Spark combina un sistema de computación distribuida a través de clusters de ordenadores con una manera sencilla y elegante de escribir programas. Fue creado en la Universidad de Berkeley en California y es considerado el primer software de código abierto que hace la programación distribuida realmente accesible a los científicos de datos.
+
+Es sencillo entender Spark si lo comparamos con su predecesor, MapReduce, el cual revolucionó la manera de trabajar con grandes conjuntos de datos ofreciendo un modelo relativamente simple para escribir programas que se podían ejecutar paralelamente en cientos y miles de máquinas al mismo tiempo. Gracias a su arquitectura, MapReduce logra prácticamente una relación lineal de escalabilidad, ya que si los datos crecen es posible añadir más máquinas y tardar lo mismo.
+
+Spark mantiene la escalabilidad lineal y la tolerancia a fallos de MapReduce, pero amplía sus bondades gracias a varias funcionalidades: DAG y RDD.
+
+<div align="center"> 
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210618181920/dag6-660x478.JPG" width="%">
+</div>
+
+DAG (Grafo Acíclico Dirigido) es un grafo dirigido que no tiene ciclos, es decir, para cada nodo del grafo no hay un camino directo que comience y finalice en dicho nodo. Un vértice se conecta a otro, pero nunca a si mismo.
+
+Spark soporta el flujo de datos acíclico. Cada tarea de Spark crea un DAG de etapas de trabajo para que se ejecuten en un determinado cluster. En comparación con MapReduce, el cual crea un DAG con dos estados predefinidos (Map y Reduce), los grafos DAG creados por Spark pueden tener cualquier número de etapas. Spark con DAG es más rápido que MapReduce por el hecho de que no tiene que escribir en disco los resultados obtenidos en las etapas intermedias del grafo. MapReduce, sin embargo, debe escribir en disco los resultados entre las etapas Map y Reduce.
+
+Gracias a una completa API, es posible programar complejos hilos de ejecución paralelos en unas pocas líneas de código.
+
+**Funciones MAP & Lambdas**
+
