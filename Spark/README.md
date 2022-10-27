@@ -342,3 +342,4 @@ Gracias a una completa API, es posible programar complejos hilos de ejecución p
 
 **Funciones MAP & Lambdas**
 
+test
